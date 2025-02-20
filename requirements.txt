@@ -1,0 +1,5 @@
+BeautifulSoup4
+requests
+PyQt5
+PyQt5-Qt5
+PyQt5-sip
